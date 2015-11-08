@@ -1,0 +1,13 @@
+layout_spectrum: 0.2544803
+typography_spectrum: 0.05913978
+color:
+  saturation: 0.6813598
+  lightness: 0.3085102
+  brandStrength: 0.5197133
+  brandColors:
+    - '#171518'
+    - '#EEECEF'
+    - '#888689'
+    - '#D0CED1'
+  rhythmicContrast: 0.06127067
+name: Davey Marvich
