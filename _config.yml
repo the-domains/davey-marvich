@@ -1,13 +1,28 @@
-layout_spectrum: 0.2544803
-typography_spectrum: 0.05913978
-color:
-  saturation: 0.6813598
-  lightness: 0.3085102
-  brandStrength: 0.5197133
-  brandColors:
-    - '#171518'
-    - '#EEECEF'
-    - '#888689'
-    - '#D0CED1'
-  rhythmicContrast: 0.06127067
 name: Davey Marvich
+favicon: null
+layout_spectrum: 0.2544803
+typography_spectrum: 0.77509
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#ff00ff'
+    - '#01ffff'
+    - '#0000fe'
+    - '#fe9a00'
+  brandStrength: 0.5197133
+  lightness: 0.3085102
+  saturation: 0.6813598
+  rhythmicContrast: 0.06127067
+purpose: []
