@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Davey Marvich]]></title>
         <description><![CDATA[Davey Marvich]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/davey-marvich/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 01:32:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 May 2016 01:50:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/davey-marvich/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/abba3c54-dcaf-4933-a93d-f74e06064639.jpg">]]></description>
-            <link>undefinedbb94b978-bf31-412e-a136-18b6c122a636/index.html</link>
+            <link>https://thegrid.ai/davey-marvich/bb94b978-bf31-412e-a136-18b6c122a636/index.html</link>
             <guid isPermaLink="false">bb94b978-bf31-412e-a136-18b6c122a636</guid>
-            <pubDate>Sun, 08 May 2016 01:32:12 GMT</pubDate>
+            <pubDate>Sun, 08 May 2016 01:50:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
