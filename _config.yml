@@ -1,7 +1,7 @@
 name: Davey Marvich
 favicon: null
-layout_spectrum: 0.28366
-typography_spectrum: 0.8568
+layout_spectrum: 0.5234
+typography_spectrum: 0.81733
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#ff00ff'
-    - '#01ffff'
-    - '#0000fe'
-    - '#fe9a00'
+    - '#0098d7'
+    - '#002221'
+    - '#a76477'
+    - '#d9bda4'
+    - '#742e3b'
   brandStrength: 0.5197133
   lightness: 0.3085102
   saturation: 0.6813598
